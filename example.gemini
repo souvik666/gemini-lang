@@ -1,0 +1,7 @@
+n = 111
+m = 3
+o = "Hello, world!"
+echo(n m)
+echo(o)
+echo(5)
+echo("working")
