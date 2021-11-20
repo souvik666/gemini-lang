@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "gemparser": "npx nearleyc grammar.ne -o grammar.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
